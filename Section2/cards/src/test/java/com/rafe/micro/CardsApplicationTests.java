@@ -1,0 +1,13 @@
+package com.rafe.micro;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CardsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
