@@ -1,13 +1,13 @@
 spring:
   config:
     activate:
-      on-profile: "qa"
+      on-profile: "prod"
 
 build:
-  version: "2.0"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related QA APIs "
+  message: "Welcome to Bank cards related prod APIs "
   contactDetails:
     name: "Rafe Nakhuda - Developer"
     email: "nakhudarafe@gmail.com"
