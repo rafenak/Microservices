@@ -1,15 +1,11 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "1.0"
 
-accounts:
+loans:
   message: "Welcome to Bank loans related prod APIs "
   contactDetails:
     name: "Rafe Nakhuda - Developer"
     email: "nakhudarafe@gmail.com"
   onCallSupport:
-    - (91) 9876543210
+    - (723) 656-8709
+    - (156) 342-0956

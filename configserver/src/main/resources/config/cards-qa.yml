@@ -1,15 +1,11 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to Bank cards related QA APIs "
   contactDetails:
     name: "Rafe Nakhuda - Developer"
     email: "nakhudarafe@gmail.com"
   onCallSupport:
-    - (91) 9876543210
+    - (310) 875-4367
+    - (201) 236-1267

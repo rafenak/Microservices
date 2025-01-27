@@ -1,15 +1,11 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
   version: "2.0"
 
-accounts:
+loans:
   message: "Welcome to Bank loans related QA APIs "
   contactDetails:
     name: "Rafe Nakhuda - Developer"
     email: "nakhudarafe@gmail.com"
   onCallSupport:
-    - (91) 9876543210
+    - (785) 545-6565
+    - (853) 546-3467
