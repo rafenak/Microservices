@@ -1,0 +1,8 @@
+https://console.hookdeck.com/
+
+brew install hookdeck/hookdeck/hookdeck
+hookdeck login --cli-key 4eoq4z38yfwqvkxf3wydhxvhpi6bgnqq44akue9l1cymn2sdwe
+hookdeck listen 8071 Source
+
+Source URL: https://hkdk.events/w9t6bfdtozxvbd
+hookdeck logout
