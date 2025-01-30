@@ -1,0 +1,21 @@
+Build Image Commands
+
+docker build -t nakrafe/accounts:v1 .
+docker build -t nakrafe/loans:v1 .
+docker build -t nakrafe/cards:v1 .
+docker build -t nakrafe/configserver:v1 .
+
+
+Start Docker Compose
+docker compose up -d --build
+
+Remove Docker Compose
+docker-compose down --volumes --remove-orphans
+
+
+
+Push Docker image
+ docker image push docker.io/nakrafe/configserver:v1
+ docker image push docker.io/nakrafe/cards:v1
+ docker image push docker.io/nakrafe/loan:v1
+ docker image push docker.io/nakrafe/accounts:v1
