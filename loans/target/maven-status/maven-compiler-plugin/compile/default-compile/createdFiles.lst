@@ -8,6 +8,7 @@ com/rafe/micro/constants/LoansConstants.class
 com/rafe/micro/entity/Loans.class
 com/rafe/micro/LoansApplication.class
 com/rafe/micro/service/ILoansService.class
+com/rafe/micro/dto/LoansContactInfoDto.class
 com/rafe/micro/repository/LoansRepository.class
 com/rafe/micro/exception/LoanAlreadyExistsException.class
 com/rafe/micro/exception/GlobalExceptionHandler.class

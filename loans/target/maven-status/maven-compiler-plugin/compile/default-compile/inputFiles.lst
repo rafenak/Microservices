@@ -3,6 +3,7 @@
 /Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/constants/LoansConstants.java
 /Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/controller/LoansController.java
 /Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/dto/ErrorResponseDto.java
+/Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/dto/LoansContactInfoDto.java
 /Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/dto/LoansDto.java
 /Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/dto/ResponseDto.java
 /Users/nakhuda1/Desktop/Work/Development/Personal/Microservices/loans/src/main/java/com/rafe/micro/entity/BaseEntity.java
